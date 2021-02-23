@@ -1,0 +1,81 @@
+#columns {
+    background-color: #192330;
+}
+
+#container {
+    background-color: #192330;
+}
+
+#sections {
+    background-color: #151D28;
+    border-radius: 10px;
+}
+
+#guide-content.ytd-app {
+    background: #192330;
+}
+
+ytd-active-account-header-renderer {
+    background-color: #192330;
+}
+
+ytd-simple-menu-header-renderer {
+    background-color: #192330;
+}
+
+.style-scope.ytd-page-manager.hide-skeleton {
+    background-color: #192330;
+}
+
+.style-scope.ytd-two-column-browse-results-renderer {
+    background-color: #192330;
+}
+
+.style-scope.ytd-app {
+    background-color: #192330;
+}
+
+.style-scope.ytd-mini-guide-renderer {
+    background-color: #192330;
+}
+
+#chips {
+    background-color: #192330;
+}
+
+#container.ytd-searchbox {
+    position: relative;
+    align-items: center;
+    background-color: var(--yt-searchbox-background);
+    border: 0px solid var(--ytd-searchbox-legacy-border-color);
+    border-right: none;
+    border-radius: 2px 0 0 2px;
+    box-shadow: 0px;
+    color: var(--yt-searchbox-text-color);
+    padding: 2px 6px;
+    -ms-flex: 1 1 1e-9px;
+    -webkit-flex: 1;
+    flex: 1;
+    -webkit-flex-basis: 1e-9px;
+    flex-basis: 1e-9px;
+    /* display: -ms-flexbox; */
+    /* display: -webkit-flex; */
+    display: flex;
+    -ms-flex-direction: row;
+    -webkit-flex-direction: row;
+    flex-direction: row;
+    background-color: #151D28;
+    opacity: 1;
+    border-radius: 10px 0px 0px 10px
+}
+
+#search-icon-legacy.ytd-searchbox {
+    cursor: pointer;
+    width: 65px;
+    border: 1px solid var(--ytd-searchbox-legacy-button-border-color);
+    background-color: var(--ytd-searchbox-legacy-button-color);
+    border-radius: 0 10px 10px 0;
+    margin: 0;
+    --yt-icon-button-icon-width: 24px;
+    --yt-icon-button-icon-height: 24px;
+}

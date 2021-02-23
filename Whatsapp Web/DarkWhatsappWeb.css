@@ -1,0 +1,251 @@
+html[dir] ._2O84H {
+    padding: 10px 16px;
+    background-color: #141414;
+}
+
+.dark {
+    --background-default-active: #282828;
+    --background-default: #141414;
+    --background-default-hover: #303030;
+    --outgoing-background: #303030;
+    --outgoing-background-rgb: 48, 48, 48;
+    --incoming-bacground: #303030;
+    --incoming-background-rgb: 48, 48, 48;
+    --unread-bar-background: #000;
+}
+
+html[dir] ._27KDP {
+    background-color: #000;
+}
+
+#app {
+    background-color: #000
+}
+
+html[dir] .dark ._22PcK {
+    border-bottom: 0px;
+}
+
+html[dir] ._22PcK {
+    background-color: #141414;
+}
+
+html[dir] ._3nLE_ {
+    padding: 15px 5px;
+    background-color: #212121;
+    border-radius: 0px;
+    box-shadow: 0 2px 5px 0 rgba(var(--shadow-rgb), .26), 0 2px 10px 0 rgba(var(--shadow-rgb), .16);
+    backdrop-filter: saturate(2) blur(16px) brightness(.8);
+}
+
+._1eQ6b {
+    display: none;
+}
+
+html[dir] ._3Ceb0 {
+    background-color: #141414;
+}
+
+.dark * {
+    scrollbar-color: hsla(0, 0%, 100%, 0.18) transparent;
+}
+
+html[dir] .KpuSa {
+    padding: 5px 12px 6px;
+    text-align: center;
+    text-shadow: 0 1px 0 rgba(var(--inverse-rgb), .4);
+    background-color: #303030;
+    border-radius: 7.5px;
+    box-shadow: 0 1px .5px rgba(var(--shadow-rgb), .13);
+}
+
+.kA6WR {
+    color: #fff;
+}
+
+html[dir="ltr"] ._26MUt {
+    border-left: 0px solid var(--conversation-panel-border);
+}
+
+html[dir="ltr"] ._1UuMR {
+    border-left: 0px solid var(--border-stronger);
+}
+
+html[dir] ._1UuMR {
+    padding: 10px 20px;
+    background-color: #141414;
+}
+
+html[dir="ltr"] ._3SvgF {
+    border-left: 0px solid var(--border-stronger);
+}
+
+html[dir] ._3SvgF {
+    padding: 5px 10px;
+    background-color: #141414;
+}
+
+html[dir] .DuUXI {
+    padding: 9px 12px 11px;
+    margin: 5px 10px;
+    background-color: #141414;
+    border: 1px solid #141414;
+    border-radius: 21px;
+}
+
+html[dir] ._3Z2oJ {
+    background-color: #141414;
+}
+
+html[dir] ._1GFtw {
+    background-color: #141414;
+}
+
+html[dir="ltr"] .XukK_ {
+    border-left: 0px solid #fff;
+}
+
+html[dir] ._fpIW ._25-g1 {
+    background-color: #141414;
+}
+
+html[dir] ._2Evw0 {
+    background-color: #0000;
+    border-radius: 18px;
+}
+
+html[dir] ._3tpsN {
+    background-color: #141414;
+}
+
+html[dir] ._32vnm {
+    margin-bottom: 10px;
+    background-color: #000;
+    box-shadow: 0 1px 3px var(--shadow-light);
+}
+
+html[dir] ._1OZ02 {
+    background-color: #141414;
+}
+
+html[dir] .naICS {
+    padding: 24px 20px 0;
+    background-color: #141414;
+}
+
+html[dir] .ItuW3 {
+    background-color: #141414;
+}
+
+html[dir="ltr"] .tnocY {
+    left: 0;
+    background-color: #000;
+}
+
+html[dir="ltr"] .tSmQ1 {
+    padding-left: 0;
+    transition: padding-left .3s cubic-bezier(.69, 0, .79, .14);
+    background-color: #000;
+}
+
+._3Xjbn._1RHZR {
+    scrollbar-color: hsla(0, 0%, 100%, 0.18) #141414;
+}
+
+html[dir="ltr"] ._26MUt {
+    border-left: 0px solid var(--conversation-panel-border);
+    background-color: black;
+}
+
+html[dir] ._26MUt {
+    background-color: #000;
+    scrollbar-color: hsla(0, 0%, 100%, 0.18) #000;
+}
+
+html[dir] .dark ._1AfeU {
+    background-color: #000;
+}
+
+html[dir="ltr"] .three ._1UuMR {
+    border-right: 0px solid var(--border-stronger);
+}
+
+html[dir="ltr"] .dark .three ._2ig1U {
+    border-right: 0px solid var(--conversation-panel-border);
+}
+
+html[dir="ltr"] .dark .three ._26MUt,
+html[dir="rtl"] ._26MUt {
+    border-right: 0px solid var(--conversation-panel-border);
+}
+
+html[dir="ltr"] ._1dB-m {
+    padding: 8px 8px 8px 10px;
+}
+
+.message-in ._3N37N {
+    color: #fff0;
+}
+
+html[dir="ltr"] ._2Efpu {
+    border-left: 0px solid var(--border-panel);
+}
+
+html[dir] ._2Efpu {
+    padding-top: 8px;
+    background-color: #141414;
+}
+
+html[dir="ltr"] ._3vEz4 {
+    margin-left: 10px;
+}
+
+html[dir] ._3P_7M {
+    background-color: #141414;
+}
+
+html[dir] ._3vEz4 {
+    background-color: #141414;
+    border-radius: 5px;
+}
+
+html[dir] .message-out .i8New {
+    background-color: #303030;
+}
+
+html[dir] .message-in .i8New {
+    background-color: #303030;
+}
+
+html[dir] .message-in ._2XJpe {
+    background-color: #303030;
+}
+
+html[dir] ._2S-RK {
+    background-color: #141414f7;
+}
+
+html[dir] ._2bER9 {
+    padding-bottom: 100px;
+    background-color: #141414f7;
+}
+
+.message-out ._3N37N {
+    color: #30303000;
+}
+
+._3Xjbn._1RHZR {
+    scrollbar-color: hsla(0, 0%, 100%, 0.18) #000;
+}
+
+html[dir="ltr"] .three ._299go {
+    border-left-color: #00000000;
+}
+
+html[dir] ._1UuMR * {
+    text-align: center
+}
+
+html[dir] ._25c1-._1d7uX {
+    background-color: #303030;
+}
