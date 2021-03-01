@@ -162,7 +162,7 @@ ytmusic-search-box[has-query] {
 }
 
 html:not(.style-scope) {
-    --ytmusic-scrollbar-width: 220px;
+    --ytmusic-scrollbar-width: 12px;
 }
 
 paper-icon-button.ytmusic-settings-button {
@@ -245,4 +245,8 @@ ytd-multi-page-menu-renderer.style-scope.ytmusic-popup-container {
 
 ytd-active-account-header-renderer.style-scope.ytd-multi-page-menu-renderer {
     background: transparent;
+}
+
+.settings-button.ytmusic-nav-bar, .sign-in-link.ytmusic-nav-bar {
+    padding-right: 200px;
 }
